@@ -18,7 +18,7 @@ let package = Package(
             .binaryTarget(
                 name: "Onfido",
                 url: "https://github.com/jonathanramirez/Onfido/raw/main/Onfido.xcframework.zip",
-                checksum: "9a7449a439868bd3a32192e9fd75a422e53d5ca504aa869a4a4b9ad0d7f63e3d"
+                checksum: "4664d090da3d68f6913e82a52f8252e6942b9f9be3599fe70b2eced103755c9c"
             ),
         
 
